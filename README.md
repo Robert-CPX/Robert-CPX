@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Robert-CPX
 - 👀 I’m interested in 🏋️🏂🏄🪂🤿🚗
 - 🌱 I’m currently learning Web3 development
-- 💞️ I’m looking to collaborate on Decentralized project
+- 💞️ I’m looking to collaborate on Decentralized projects
 - 📫 How to reach me: hi@robbdev.xyz
 
 <!---
