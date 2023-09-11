@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Robert-CPX
 - 👨‍💻 I'm a self-learned Full Stack Typescript Developer
 - 👀 I’m interested in 🏋️🏂🏄🪂🤿🚗
-- 🌱 I’m interested in Web3 development
 - 📫 How to reach me: hi@robbdev.xyz
 
 <!---
